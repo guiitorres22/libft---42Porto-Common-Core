@@ -1,4 +1,3 @@
-# libft---42Porto-Common-Core
 # Libft - 42Porto Common Core
 
 ## Introduction
